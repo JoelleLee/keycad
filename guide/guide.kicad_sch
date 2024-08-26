@@ -3370,7 +3370,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 213.995 70.485 0)
 			(effects
 				(font
@@ -3503,7 +3503,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 41.91 60.96 0)
 			(effects
 				(font
@@ -3643,7 +3643,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 197.485 70.485 0)
 			(effects
 				(font
@@ -3713,7 +3713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 45.72 101.6 0)
 			(effects
 				(font
@@ -3839,8 +3839,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
-			(at 205.994 70.866 0)
+		(property "Value" "SOD-123"
+			(at 206.248 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3848,7 +3848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 209.55 76.2 90)
 			(effects
 				(font
@@ -3936,7 +3936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 30.48 101.6 0)
 			(effects
 				(font
@@ -4004,7 +4004,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 30.48 67.31 0)
 			(effects
 				(font
@@ -4072,7 +4072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SKQG-1155865"
 			(at 57.15 48.26 0)
 			(effects
 				(font
@@ -4132,8 +4132,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
-			(at 206.502 52.832 0)
+		(property "Value" "SOD-123"
+			(at 206.248 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4141,7 +4141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 209.55 58.42 90)
 			(effects
 				(font
@@ -4229,7 +4229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 38.1 101.6 0)
 			(effects
 				(font
@@ -4431,7 +4431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 63.5 43.18 0)
 			(effects
 				(font
@@ -4633,7 +4633,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 22.86 101.6 0)
 			(effects
 				(font
@@ -4703,7 +4703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 59.69 88.9 0)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 213.995 52.705 0)
 			(effects
 				(font
@@ -5160,8 +5160,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
-			(at 223.266 52.832 0)
+		(property "Value" "SOD-123"
+			(at 223.266 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5169,7 +5169,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 226.06 58.42 90)
 			(effects
 				(font
@@ -5321,7 +5321,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 184.15 49.53 0)
 			(effects
 				(font
@@ -5456,7 +5456,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:Molex-0548190589"
 			(at 152.4 55.88 0)
 			(effects
 				(font
@@ -5536,7 +5536,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 197.485 52.705 0)
 			(effects
 				(font
@@ -5604,7 +5604,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 33.02 81.28 0)
 			(effects
 				(font
@@ -5664,8 +5664,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
-			(at 223.266 70.612 0)
+		(property "Value" "SOD-123"
+			(at 223.52 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5673,7 +5673,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 226.06 76.2 90)
 			(effects
 				(font
@@ -5759,7 +5759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 41.91 78.74 0)
 			(effects
 				(font
@@ -5827,7 +5827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 113.03 106.68 0)
 			(effects
 				(font
@@ -5895,7 +5895,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 30.48 57.15 0)
 			(effects
 				(font
