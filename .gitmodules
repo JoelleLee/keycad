@@ -4,3 +4,6 @@
 [submodule "MX_V2"]
 	path = MX_V2
 	url = https://github.com/ai03-2725/MX_V2
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
