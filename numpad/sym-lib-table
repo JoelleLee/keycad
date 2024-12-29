@@ -1,5 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/joell/keycad/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/joell/keycad/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid_old")(type "Legacy")(uri "C:/Users/joell/keycad/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr "")(disabled)(hidden))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/joell/keycad/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
